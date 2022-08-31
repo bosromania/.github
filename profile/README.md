@@ -1,6 +1,6 @@
 ### Business Organization for Students
 
-We are a student NGO, linking the business and academic environments together.
+We are primarily a student NGO that creates a link between the academic and business environments.
 
 ### Learn coding with us
 
@@ -8,11 +8,11 @@ We are a student NGO, linking the business and academic environments together.
 
 You will learn:
 
-- `🟤 Database` _(MySQL)_
+- `🟤 Database` _(with MySQL)_
 - `🔴 PHP` _(with a custom framework)_
 - `🔵 Javascript` _(with jQuery framework)_
 - `🟡 CSS` _(with SCSS framework)_
 - `🔘 GitHub` _(with Git commands)_
 
 >  We have a Web Development division just for you 🖥️<br>
->  Your current faculty doesn't matter for us, but only the love for programming.
+>  Your current college doesn't matter for us, but only your love for programming.
